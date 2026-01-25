@@ -21,3 +21,4 @@ Zamykający akord nazwy dotyka tego, co niewidoczne dla oka, a kluczowe dla jako
 
 ## Podsumowanie
 VEXTRINEP to manifest artystyczny zamknięty w jednym słowie. Opowiada historię o budowaniu świata z prostych Wierzchołków (VEX), układaniu ich w Rygorystyczne struktury (TRI) i dbałości o Niewidzialną precyzję detalu (NEP).
+frfdssfsd
