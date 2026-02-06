@@ -1,7 +1,7 @@
 # VEXTRINEP
 > **Strict Geometric Composition Engine**
 VEXTRINEP is an experimental image generation system based on the "Tangram Tiling" paradigm and an original policy of strict shape validation. This project represents a fusion of mathematical rigor with minimalist aesthetics, where every form is the result of uncompromising calculations, not chance.
----
+---11111111111111111
 ## 🧬 Etymology and Philosophy
 The name **VEXTRINEP** is not accidental. It is a precise record of the DNA of a unique graphic style, constituting a verbal representation of the creative process in which raw geometry meets mathematical perfection.
 ### **VEX** – Foundation and Form
